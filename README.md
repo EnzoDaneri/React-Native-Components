@@ -11,4 +11,9 @@
 - react navigation
 - Typescript
 ---
+#### Scripts
+- `npx react-native start`
+- `npx react-native run-android`
+
+---
 - credits: https://www.udemy.com/course/react-native-fh/
